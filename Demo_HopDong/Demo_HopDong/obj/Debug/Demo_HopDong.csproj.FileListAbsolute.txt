@@ -1,0 +1,11 @@
+D:\BT WINFORM\Demo_HopDong\Demo_HopDong\bin\Debug\Demo_HopDong.exe.config
+D:\BT WINFORM\Demo_HopDong\Demo_HopDong\bin\Debug\Demo_HopDong.exe
+D:\BT WINFORM\Demo_HopDong\Demo_HopDong\bin\Debug\Demo_HopDong.pdb
+D:\BT WINFORM\Demo_HopDong\Demo_HopDong\obj\Debug\Demo_HopDong.csproj.AssemblyReference.cache
+D:\BT WINFORM\Demo_HopDong\Demo_HopDong\obj\Debug\Demo_HopDong.csproj.SuggestedBindingRedirects.cache
+D:\BT WINFORM\Demo_HopDong\Demo_HopDong\obj\Debug\Demo_HopDong.Form1.resources
+D:\BT WINFORM\Demo_HopDong\Demo_HopDong\obj\Debug\Demo_HopDong.Properties.Resources.resources
+D:\BT WINFORM\Demo_HopDong\Demo_HopDong\obj\Debug\Demo_HopDong.csproj.GenerateResource.cache
+D:\BT WINFORM\Demo_HopDong\Demo_HopDong\obj\Debug\Demo_HopDong.csproj.CoreCompileInputs.cache
+D:\BT WINFORM\Demo_HopDong\Demo_HopDong\obj\Debug\Demo_HopDong.exe
+D:\BT WINFORM\Demo_HopDong\Demo_HopDong\obj\Debug\Demo_HopDong.pdb

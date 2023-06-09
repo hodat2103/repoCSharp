@@ -1,0 +1,11 @@
+D:\BT WINFORM\Demo_DoiMatKhau\Demo_DoiMatKhau\obj\Debug\Demo_DoiMatKhau.csproj.AssemblyReference.cache
+D:\BT WINFORM\Demo_DoiMatKhau\Demo_DoiMatKhau\obj\Debug\Demo_DoiMatKhau.csproj.SuggestedBindingRedirects.cache
+D:\BT WINFORM\Demo_DoiMatKhau\Demo_DoiMatKhau\obj\Debug\Demo_DoiMatKhau.Form1.resources
+D:\BT WINFORM\Demo_DoiMatKhau\Demo_DoiMatKhau\obj\Debug\Demo_DoiMatKhau.Properties.Resources.resources
+D:\BT WINFORM\Demo_DoiMatKhau\Demo_DoiMatKhau\obj\Debug\Demo_DoiMatKhau.csproj.GenerateResource.cache
+D:\BT WINFORM\Demo_DoiMatKhau\Demo_DoiMatKhau\obj\Debug\Demo_DoiMatKhau.csproj.CoreCompileInputs.cache
+D:\BT WINFORM\Demo_DoiMatKhau\Demo_DoiMatKhau\bin\Debug\Demo_DoiMatKhau.exe.config
+D:\BT WINFORM\Demo_DoiMatKhau\Demo_DoiMatKhau\bin\Debug\Demo_DoiMatKhau.exe
+D:\BT WINFORM\Demo_DoiMatKhau\Demo_DoiMatKhau\bin\Debug\Demo_DoiMatKhau.pdb
+D:\BT WINFORM\Demo_DoiMatKhau\Demo_DoiMatKhau\obj\Debug\Demo_DoiMatKhau.exe
+D:\BT WINFORM\Demo_DoiMatKhau\Demo_DoiMatKhau\obj\Debug\Demo_DoiMatKhau.pdb

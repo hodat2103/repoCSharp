@@ -1,0 +1,11 @@
+D:\BT WINFORM\Demo_BangLuong\Demo_BangLuong\bin\Debug\Demo_BangLuong.exe.config
+D:\BT WINFORM\Demo_BangLuong\Demo_BangLuong\bin\Debug\Demo_BangLuong.exe
+D:\BT WINFORM\Demo_BangLuong\Demo_BangLuong\bin\Debug\Demo_BangLuong.pdb
+D:\BT WINFORM\Demo_BangLuong\Demo_BangLuong\obj\Debug\Demo_BangLuong.csproj.AssemblyReference.cache
+D:\BT WINFORM\Demo_BangLuong\Demo_BangLuong\obj\Debug\Demo_BangLuong.csproj.SuggestedBindingRedirects.cache
+D:\BT WINFORM\Demo_BangLuong\Demo_BangLuong\obj\Debug\Demo_BangLuong.Form1.resources
+D:\BT WINFORM\Demo_BangLuong\Demo_BangLuong\obj\Debug\Demo_BangLuong.Properties.Resources.resources
+D:\BT WINFORM\Demo_BangLuong\Demo_BangLuong\obj\Debug\Demo_BangLuong.csproj.GenerateResource.cache
+D:\BT WINFORM\Demo_BangLuong\Demo_BangLuong\obj\Debug\Demo_BangLuong.csproj.CoreCompileInputs.cache
+D:\BT WINFORM\Demo_BangLuong\Demo_BangLuong\obj\Debug\Demo_BangLuong.exe
+D:\BT WINFORM\Demo_BangLuong\Demo_BangLuong\obj\Debug\Demo_BangLuong.pdb
