@@ -1,0 +1,11 @@
+D:\Nha Tai Tro\Nha Tai Tro\bin\Debug\Nha Tai Tro.exe.config
+D:\Nha Tai Tro\Nha Tai Tro\bin\Debug\Nha Tai Tro.exe
+D:\Nha Tai Tro\Nha Tai Tro\bin\Debug\Nha Tai Tro.pdb
+D:\Nha Tai Tro\Nha Tai Tro\obj\Debug\Nha Tai Tro.csproj.AssemblyReference.cache
+D:\Nha Tai Tro\Nha Tai Tro\obj\Debug\Nha Tai Tro.csproj.SuggestedBindingRedirects.cache
+D:\Nha Tai Tro\Nha Tai Tro\obj\Debug\Nha_Tai_Tro.Form1.resources
+D:\Nha Tai Tro\Nha Tai Tro\obj\Debug\Nha_Tai_Tro.Properties.Resources.resources
+D:\Nha Tai Tro\Nha Tai Tro\obj\Debug\Nha Tai Tro.csproj.GenerateResource.cache
+D:\Nha Tai Tro\Nha Tai Tro\obj\Debug\Nha Tai Tro.csproj.CoreCompileInputs.cache
+D:\Nha Tai Tro\Nha Tai Tro\obj\Debug\Nha Tai Tro.exe
+D:\Nha Tai Tro\Nha Tai Tro\obj\Debug\Nha Tai Tro.pdb

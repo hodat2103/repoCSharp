@@ -1,0 +1,11 @@
+D:\ThanhTich\ThanhTich\bin\Debug\ThanhTich.exe.config
+D:\ThanhTich\ThanhTich\bin\Debug\ThanhTich.exe
+D:\ThanhTich\ThanhTich\bin\Debug\ThanhTich.pdb
+D:\ThanhTich\ThanhTich\obj\Debug\ThanhTich.csproj.AssemblyReference.cache
+D:\ThanhTich\ThanhTich\obj\Debug\ThanhTich.csproj.SuggestedBindingRedirects.cache
+D:\ThanhTich\ThanhTich\obj\Debug\ThanhTich.Form1.resources
+D:\ThanhTich\ThanhTich\obj\Debug\ThanhTich.Properties.Resources.resources
+D:\ThanhTich\ThanhTich\obj\Debug\ThanhTich.csproj.GenerateResource.cache
+D:\ThanhTich\ThanhTich\obj\Debug\ThanhTich.csproj.CoreCompileInputs.cache
+D:\ThanhTich\ThanhTich\obj\Debug\ThanhTich.exe
+D:\ThanhTich\ThanhTich\obj\Debug\ThanhTich.pdb

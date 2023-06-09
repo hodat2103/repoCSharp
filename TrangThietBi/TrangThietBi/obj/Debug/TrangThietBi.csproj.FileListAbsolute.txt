@@ -1,0 +1,11 @@
+D:\TrangThietBi\TrangThietBi\bin\Debug\TrangThietBi.exe.config
+D:\TrangThietBi\TrangThietBi\bin\Debug\TrangThietBi.exe
+D:\TrangThietBi\TrangThietBi\bin\Debug\TrangThietBi.pdb
+D:\TrangThietBi\TrangThietBi\obj\Debug\TrangThietBi.csproj.AssemblyReference.cache
+D:\TrangThietBi\TrangThietBi\obj\Debug\TrangThietBi.csproj.SuggestedBindingRedirects.cache
+D:\TrangThietBi\TrangThietBi\obj\Debug\TrangThietBi.Form1.resources
+D:\TrangThietBi\TrangThietBi\obj\Debug\TrangThietBi.Properties.Resources.resources
+D:\TrangThietBi\TrangThietBi\obj\Debug\TrangThietBi.csproj.GenerateResource.cache
+D:\TrangThietBi\TrangThietBi\obj\Debug\TrangThietBi.csproj.CoreCompileInputs.cache
+D:\TrangThietBi\TrangThietBi\obj\Debug\TrangThietBi.exe
+D:\TrangThietBi\TrangThietBi\obj\Debug\TrangThietBi.pdb
