@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuangCao1", "QuangCao1\QuangCao1.csproj", "{F4241689-ADE5-47B2-970F-7075D405460E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4241689-ADE5-47B2-970F-7075D405460E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4241689-ADE5-47B2-970F-7075D405460E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4241689-ADE5-47B2-970F-7075D405460E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4241689-ADE5-47B2-970F-7075D405460E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0181C831-2842-4594-BBE3-3ECFC012FE71}
+	EndGlobalSection
+EndGlobal

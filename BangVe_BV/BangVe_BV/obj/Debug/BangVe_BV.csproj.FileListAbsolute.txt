@@ -1,0 +1,14 @@
+C:\Users\Le Thi Nhan\source\repos\BangVe_BV\BangVe_BV\bin\Debug\BangVe_BV.exe.config
+C:\Users\Le Thi Nhan\source\repos\BangVe_BV\BangVe_BV\bin\Debug\BangVe_BV.exe
+C:\Users\Le Thi Nhan\source\repos\BangVe_BV\BangVe_BV\bin\Debug\BangVe_BV.pdb
+C:\Users\Le Thi Nhan\source\repos\BangVe_BV\BangVe_BV\obj\Debug\BangVe_BV.csproj.AssemblyReference.cache
+C:\Users\Le Thi Nhan\source\repos\BangVe_BV\BangVe_BV\obj\Debug\BangVe_BV.csproj.SuggestedBindingRedirects.cache
+C:\Users\Le Thi Nhan\source\repos\BangVe_BV\BangVe_BV\obj\Debug\BangVe_BV.Form1.resources
+C:\Users\Le Thi Nhan\source\repos\BangVe_BV\BangVe_BV\obj\Debug\BangVe_BV.Properties.Resources.resources
+C:\Users\Le Thi Nhan\source\repos\BangVe_BV\BangVe_BV\obj\Debug\BangVe_BV.csproj.GenerateResource.cache
+C:\Users\Le Thi Nhan\source\repos\BangVe_BV\BangVe_BV\obj\Debug\BangVe_BV.csproj.CoreCompileInputs.cache
+C:\Users\Le Thi Nhan\source\repos\BangVe_BV\BangVe_BV\obj\Debug\BangVe_BV.exe
+C:\Users\Le Thi Nhan\source\repos\BangVe_BV\BangVe_BV\obj\Debug\BangVe_BV.pdb
+C:\Users\Le Thi Nhan\source\repos\BangVe_BV\BangVe_BV\bin\Debug\Aspose.Words.dll
+C:\Users\Le Thi Nhan\source\repos\BangVe_BV\BangVe_BV\obj\Debug\BangVe_BV.csproj.CopyComplete
+C:\Users\Le Thi Nhan\source\repos\BangVe_BV\BangVe_BV\bin\Debug\Template\BANG_VE.doc

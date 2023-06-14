@@ -1,0 +1,13 @@
+C:\Users\Le Thi Nhan\source\repos\QuangCao1\QuangCao1\obj\Debug\QuangCao1.csproj.AssemblyReference.cache
+C:\Users\Le Thi Nhan\source\repos\QuangCao1\QuangCao1\obj\Debug\QuangCao1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Le Thi Nhan\source\repos\QuangCao1\QuangCao1\obj\Debug\QuangCao1.Form1.resources
+C:\Users\Le Thi Nhan\source\repos\QuangCao1\QuangCao1\obj\Debug\QuangCao1.Properties.Resources.resources
+C:\Users\Le Thi Nhan\source\repos\QuangCao1\QuangCao1\obj\Debug\QuangCao1.csproj.GenerateResource.cache
+C:\Users\Le Thi Nhan\source\repos\QuangCao1\QuangCao1\obj\Debug\QuangCao1.csproj.CoreCompileInputs.cache
+C:\Users\Le Thi Nhan\source\repos\QuangCao1\QuangCao1\bin\Debug\QuangCao1.exe.config
+C:\Users\Le Thi Nhan\source\repos\QuangCao1\QuangCao1\bin\Debug\QuangCao1.exe
+C:\Users\Le Thi Nhan\source\repos\QuangCao1\QuangCao1\bin\Debug\QuangCao1.pdb
+C:\Users\Le Thi Nhan\source\repos\QuangCao1\QuangCao1\obj\Debug\QuangCao1.exe
+C:\Users\Le Thi Nhan\source\repos\QuangCao1\QuangCao1\obj\Debug\QuangCao1.pdb
+C:\Users\Le Thi Nhan\source\repos\QuangCao1\QuangCao1\bin\Debug\Aspose.Words.dll
+C:\Users\Le Thi Nhan\source\repos\QuangCao1\QuangCao1\obj\Debug\QuangCao1.csproj.CopyComplete
