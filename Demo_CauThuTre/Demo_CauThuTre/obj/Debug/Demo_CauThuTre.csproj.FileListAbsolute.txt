@@ -1,0 +1,11 @@
+D:\BT WINFORM\Demo_CauThuTre\Demo_CauThuTre\bin\Debug\Demo_CauThuTre.exe.config
+D:\BT WINFORM\Demo_CauThuTre\Demo_CauThuTre\bin\Debug\Demo_CauThuTre.exe
+D:\BT WINFORM\Demo_CauThuTre\Demo_CauThuTre\bin\Debug\Demo_CauThuTre.pdb
+D:\BT WINFORM\Demo_CauThuTre\Demo_CauThuTre\obj\Debug\Demo_CauThuTre.csproj.AssemblyReference.cache
+D:\BT WINFORM\Demo_CauThuTre\Demo_CauThuTre\obj\Debug\Demo_CauThuTre.csproj.SuggestedBindingRedirects.cache
+D:\BT WINFORM\Demo_CauThuTre\Demo_CauThuTre\obj\Debug\Demo_CauThuTre.Form1.resources
+D:\BT WINFORM\Demo_CauThuTre\Demo_CauThuTre\obj\Debug\Demo_CauThuTre.Properties.Resources.resources
+D:\BT WINFORM\Demo_CauThuTre\Demo_CauThuTre\obj\Debug\Demo_CauThuTre.csproj.GenerateResource.cache
+D:\BT WINFORM\Demo_CauThuTre\Demo_CauThuTre\obj\Debug\Demo_CauThuTre.csproj.CoreCompileInputs.cache
+D:\BT WINFORM\Demo_CauThuTre\Demo_CauThuTre\obj\Debug\Demo_CauThuTre.exe
+D:\BT WINFORM\Demo_CauThuTre\Demo_CauThuTre\obj\Debug\Demo_CauThuTre.pdb
